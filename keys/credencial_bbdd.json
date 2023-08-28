@@ -1,0 +1,8 @@
+{
+    "host" : "localhost",
+    "port" : "",
+    "database" : "futbol",
+    "user" : "root",
+    "password" : "abcd1234!"
+
+}
